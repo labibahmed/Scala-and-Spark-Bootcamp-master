@@ -1,4 +1,4 @@
-# Scala-and-Spark-learning
+![banner](banner.png)
  
  ## Description
 Took an Udemy course which went through the scala programming language and Apache Spark. This repository is the work I've done throughout the course. The entire course was not finished (90% completed). This is not a project but a tutorial for learning purposes.
