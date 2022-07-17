@@ -12,10 +12,10 @@ This course goes through the following:
 - Spark Machine Learning (Classification, Clustering, Model Validation, Regression, etc...)
 
 Of course, it also teaches about the fundamentals of functional programming such as:
--how functions work
--function chaining
--no states / immutability
--Recursion
+- how functions work
+- function chaining
+- no states / immutability
+- Recursion
 
 ## Feedback
 I liked working with scala as a language and using the spark framework. This forced me to think differently about programming than I usually do and I can see how in certain cases functional programming can be very beneficial. The reason for not finishing the course and continuing using scala is due to market trends and the availability of scala jobs. In the end, I decided to refine my skills in Java instead since that is more in demand. I will continue to work with scala in the future as a hobby.
